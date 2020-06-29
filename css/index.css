@@ -349,7 +349,7 @@ button:focus
         color: darksalmon;
         font-family: sans-serif;
         font-weight: 600;
-        margin-top: 50px;
+        margin-top: 30px;
         margin: auto;
     }
     .pragraph2
@@ -358,9 +358,10 @@ button:focus
         font-size: 30px;
         letter-spacing: 2px;
         font-weight: 600;
-        margin-top: 30px;
-        margin-bottom: 30px;
-        margin: auto;
+        margin: auto;px;
+        margin-top: 20;  
+        margin-bottom: 20px;
+        
     }
     .download-paragraph button
     {
