@@ -284,7 +284,7 @@ button:focus
     .help-services
     {
         width: 100%;
-        height: 1050px;
+        height: 1150px;
         background-color: #fff;
         margin: 0px;
         padding: 0px;
@@ -336,7 +336,7 @@ button:focus
     }
     .download-paragraph
     {
-        width: 80%;
+        width: 90%;
         text-align: center;
         background-color: #fff;
         margin: auto;
@@ -353,7 +353,7 @@ button:focus
     }
     .pragraph2
     {
-        width: 90%;
+        width: 95%;
         font-size: 30px;
         letter-spacing: 2px;
         font-weight: 600;
