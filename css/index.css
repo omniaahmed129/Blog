@@ -151,8 +151,6 @@ body{
     border-radius: 4px;
     font-weight: 600;
     cursor: pointer;
-    margin-top:15px;
-    margin-bottom:20px;
 }
 .blog-person2
 {
@@ -351,7 +349,7 @@ button:focus
         color: darksalmon;
         font-family: sans-serif;
         font-weight: 600;
-        margin-top: 40px;
+        margin-top: 50px;
         margin: auto;
     }
     .pragraph2
@@ -360,8 +358,8 @@ button:focus
         font-size: 30px;
         letter-spacing: 2px;
         font-weight: 600;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
         margin: auto;
     }
     .download-paragraph button
@@ -376,6 +374,8 @@ button:focus
         border-radius: 4px;
         font-weight: 600;
         cursor: pointer;
+        margin-top:15px;
+        margin-bottom:20px;
     }
     .blog-person2
     {
