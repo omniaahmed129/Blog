@@ -1,0 +1,254 @@
+body{
+    background-color:antiquewhite;
+    position: relative;
+    margin: 0px;
+}
+.fir-section
+{
+    text-align: center;
+    width: 100%;
+    height: 400px;
+}
+.fir-section h1
+{
+    font-size: 25px;
+    color:rgba(100,100,100,0.9);
+    font-weight:bolder;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    font-style: italic;
+}
+.fir-section h2
+{
+    font-size: 46px;
+    letter-spacing: 2px;
+    color: #000;
+    width: 30%;
+    margin: auto;
+}
+.fir-section h3
+{
+    font-size: 15px;
+    color: rgba(100,100,100,0.9);
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top:30px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+form
+{
+    margin: auto;
+}
+input
+{
+    padding: 13px 20px;
+    border:0.5px solid #fff;
+    margin-top: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.submit
+{
+    padding: 13px 62px;
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    cursor: pointer;
+    border-color: #000;
+}
+.sec-section
+{
+    width:100%;
+    height: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+.photos
+{
+    display: inline-block;
+}
+.photos div
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    margin:0px 35px;
+    margin-top: 50px;
+}
+.fir-photo
+{
+    background-image: url(../images/girl-typing-laptop.jpg);
+    background-size: cover;
+}
+.sec-photo
+{
+    background-image: url(../images/gmg8-1-e1522477824746.jpeg);
+    background-size: cover;
+}
+.third-photo
+{
+    background-image: url(../images/34bc7d800114b03facc9d32d23a63869.jpg);
+    background-size: cover;
+}
+.sec-section p
+{
+    color: darksalmon;
+    font-size: 35px;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+.third-section
+{
+    width: 100%;
+    height: 250px;
+    background-color: darksalmon;
+    padding-top: 20px;
+    text-align: center;
+}
+.third-section h1
+{
+    font-size: 26px;
+    letter-spacing: 5px;
+    color: rgba(50,50,50,0.9);
+    font-family: sans-serif;  
+    font-weight: 700;
+    font-style: italic;
+}
+.third-section h2
+{
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: rgba(0,0,0,0.8);
+    font-family:sans-serif;
+    width: 60%;
+    margin: auto;
+}
+@media(max-width:776px)
+{
+    .fir-section
+    {
+        text-align: center;
+        width: 100%;
+        height: 450px;
+    }
+    .fir-section h1
+    {
+        font-size: 20px;
+        color:rgba(100,100,100,0.9);
+        font-weight:bolder;
+        letter-spacing: 5px;
+        font-family: sans-serif;
+        margin-top: 40px;
+    }
+    .fir-section h2
+    {
+        font-size: 35px;
+        letter-spacing: 2px;
+        color: #000;
+        width: 90%;
+        margin: auto;
+    }
+    .fir-section h3
+    {
+        font-size: 10px;
+        color: rgba(100,100,100,0.9);
+        width: 80%;
+        text-align: center;
+        margin: auto;
+        margin-top:20px;
+        font-family: sans-serif;
+        letter-spacing: 2px;
+    }
+    form
+    {
+        margin: auto;
+        display: block;
+    }
+    input
+    {
+        padding: 10px 18px;
+        border:0.5px solid #fff;
+        letter-spacing: 2px;
+        text-align: center;
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .submit
+    {
+        padding: 10px 55px;
+        background-color: #000;
+        color: #fff;
+        font-family: sans-serif;
+        letter-spacing: 2px;
+        font-weight: 600;
+        cursor: pointer;
+        border-color: #000;
+        display: block;
+        margin: auto;
+        margin-top: 20px
+    }
+    .sec-section
+    {
+        width:100%;
+        height: 420px;
+        text-align: center;
+        background-color: #fff;
+    }
+    .photos
+    {
+        margin-top: 20px;
+    }
+    .photos div
+    {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        margin:auto;
+        margin-top: 20px;
+    }
+    .sec-section p
+    {
+        color: darksalmon;
+        font-size: 32px;
+        width: 80%;
+        margin: auto;
+        margin-top: 20px;
+        font-weight: 900;
+        letter-spacing: 1px;
+    }
+    .third-section
+    {
+        width: 100%;
+        height: 390px;
+        background-color: darksalmon;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .third-section h1
+    {
+        font-size: 22px;
+        letter-spacing: 2px;
+        color: rgba(50,50,50,0.9);
+        font-family: sans-serif;  
+        font-weight: 700;
+    }
+    .third-section h2
+    {
+        font-size: 12px;
+        letter-spacing: 1px;
+        color: rgba(0,0,0,0.6);
+        font-family:sans-serif;
+        width: 85%;
+        margin: auto;
+    }
+}
