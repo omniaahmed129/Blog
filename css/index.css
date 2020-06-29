@@ -127,6 +127,7 @@ body{
 }
 .pragraph1
 {
+    display: grid;
     font-size: 25px;
     letter-spacing: 2px;
     color: darksalmon;
@@ -162,6 +163,7 @@ body{
 }
 .image2
 {
+    display: grid;
     order: 2;
     background-image: url(../images/1_yVd1PWjd5uBg4MOaHpwidA.jpeg);
     width: 43%;
